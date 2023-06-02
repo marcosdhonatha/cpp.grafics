@@ -1,9 +1,9 @@
-#include <wx/wx.h>
-#include <wx/sizer.h>
-#include <wx/textctrl.h>
-#include <wx/button.h>
-#include <wx/stattext.h>
-#include <wx/grid.h>
+#include <include/wx.h>
+#include <include/sizer.h>
+#include <include/textctrl.h>
+#include <include/button.h>
+#include <include/stattext.h>
+#include <include/grid.h>
 
 const int MAX_ATTEMPTS = 5;
 
